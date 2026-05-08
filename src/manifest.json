@@ -1,0 +1,19 @@
+{
+  "name": "CPTI 校园版",
+  "appid": "",
+  "description": "测测你和TA的关系类型",
+  "versionName": "1.0.0",
+  "versionCode": "100",
+  "transformPx": false,
+  "mp-weixin": {
+    "appid": "你的小程序AppID",
+    "setting": { "urlCheck": false },
+    "usingComponents": true
+  },
+  "h5": {
+    "title": "CPTI 校园版 · 测测你和TA的关系",
+    "router": { "mode": "hash" }
+  },
+  "uniStatistics": { "enable": false },
+  "vueVersion": "3"
+}
